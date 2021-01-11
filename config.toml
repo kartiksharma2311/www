@@ -24,18 +24,18 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "work from GNDEC,elecronics engineering"
   description = "Master trainer: Empowering Folk"
-  facebook = ""
+  facebook = "https://facebook.com/GoHugoIO"
   twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
+  instagram = "https://instagram.com/GoHugoIO"
+  youtube = "https://youtube.com/GoHugoIO"
   github = ""
   gitlab = ""
   linkedin = ""
@@ -44,6 +44,6 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  background_color_class = "grey-green"
+  featured_image = "/images/gohugo-wallpaper1-image.jpg"
   recent_posts_number = 2
