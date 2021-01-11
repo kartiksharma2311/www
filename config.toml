@@ -45,5 +45,5 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "grey-green"
-  featured_image = "/images/gohugo-wallpaper1-image.jpg"
+  featured_image = "https://visualhunt.com/photos/1/young-woman-reading-book.jpg?s=s"
   recent_posts_number = 2
